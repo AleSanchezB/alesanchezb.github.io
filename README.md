@@ -116,7 +116,7 @@
 
 <p align="center">
   <a href="https://github.com/alesanchezb">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alesanchezb&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alesanchezb&theme=nord&hide_border=false" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
@@ -128,9 +128,7 @@
 
 <a> 
     <a href="https://github.com/alesanchezb"><img alt="Braulio Sanchez Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alesanchezb&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alesanchezb"><img alt="Braulio Sanchez Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesanchezb&theme=nord&show_icons=true&hide_border=false&layout=compact" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alesanchezb"><img alt="Braulio Sanchez Top Languages" src="https://github-readme-stats.vercel.app/api?username=alesanchezb&theme=nord&show_icons=true&hide_border=false&count_private=true" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![alesanchezb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alesanchezb&theme=nord&show_icons=true&hide_border=false&layout=compact)
-![alesanchezb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alesanchezb&theme=nord&show_icons=true&hide_border=false&layout=compact)
